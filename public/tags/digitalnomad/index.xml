@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DigitalNomad on Sherlock XuF</title>
+    <link>//localhost:1313/tags/digitalnomad/</link>
+    <description>Recent content in DigitalNomad on Sherlock XuF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (XuFei)</managingEditor>
+    <webMaster>youremail@example.com (XuFei)</webMaster>
+    <copyright>© 2024 XuFei</copyright>
+    <lastBuildDate>Thu, 12 Mar 2015 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/digitalnomad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hutiaoxia Hiking</title>
+      <link>//localhost:1313/travel/hutiaoxia/</link>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>//localhost:1313/travel/hutiaoxia/</guid>
+      <description>穿梭在香格里拉大峡谷，我们在虎跳峡徒步</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/travel/hutiaoxia/featured.jpeg" />
+    </item>
+    
+  </channel>
+</rss>
