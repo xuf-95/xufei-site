@@ -2,260 +2,260 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sherlock XuF</title>
-    <link>//localhost:1313/tags/</link>
+    <link>https://xufei.site/tags/</link>
     <description>Recent content in Tags on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (XuFei)</managingEditor>
     <webMaster>youremail@example.com (XuFei)</webMaster>
     <copyright>© 2024 XuFei</copyright>
-    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hike</title>
-      <link>//localhost:1313/tags/hike/</link>
+      <link>https://xufei.site/tags/hike/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/hike/</guid>
+      <guid>https://xufei.site/tags/hike/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Travel</title>
-      <link>//localhost:1313/tags/travel/</link>
+      <link>https://xufei.site/tags/travel/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/travel/</guid>
+      <guid>https://xufei.site/tags/travel/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Macbook</title>
-      <link>//localhost:1313/tags/macbook/</link>
+      <link>https://xufei.site/tags/macbook/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/macbook/</guid>
+      <guid>https://xufei.site/tags/macbook/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Resources</title>
-      <link>//localhost:1313/tags/resources/</link>
+      <link>https://xufei.site/tags/resources/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/resources/</guid>
+      <guid>https://xufei.site/tags/resources/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tools</title>
-      <link>//localhost:1313/tags/tools/</link>
+      <link>https://xufei.site/tags/tools/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/tools/</guid>
+      <guid>https://xufei.site/tags/tools/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>//localhost:1313/tags/tutorial/</link>
+      <link>https://xufei.site/tags/tutorial/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/tutorial/</guid>
+      <guid>https://xufei.site/tags/tutorial/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PKM</title>
-      <link>//localhost:1313/tags/pkm/</link>
+      <link>https://xufei.site/tags/pkm/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/pkm/</guid>
+      <guid>https://xufei.site/tags/pkm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Think</title>
-      <link>//localhost:1313/tags/think/</link>
+      <link>https://xufei.site/tags/think/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/think/</guid>
+      <guid>https://xufei.site/tags/think/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tactics</title>
-      <link>//localhost:1313/tags/tactics/</link>
+      <link>https://xufei.site/tags/tactics/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/tactics/</guid>
+      <guid>https://xufei.site/tags/tactics/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Css</title>
-      <link>//localhost:1313/tags/css/</link>
+      <link>https://xufei.site/tags/css/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/css/</guid>
+      <guid>https://xufei.site/tags/css/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Html</title>
-      <link>//localhost:1313/tags/html/</link>
+      <link>https://xufei.site/tags/html/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/html/</guid>
+      <guid>https://xufei.site/tags/html/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>//localhost:1313/tags/markdown/</link>
+      <link>https://xufei.site/tags/markdown/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/markdown/</guid>
+      <guid>https://xufei.site/tags/markdown/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sample</title>
-      <link>//localhost:1313/tags/sample/</link>
+      <link>https://xufei.site/tags/sample/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/sample/</guid>
+      <guid>https://xufei.site/tags/sample/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Chart</title>
-      <link>//localhost:1313/tags/chart/</link>
+      <link>https://xufei.site/tags/chart/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/chart/</guid>
+      <guid>https://xufei.site/tags/chart/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Graph</title>
-      <link>//localhost:1313/tags/graph/</link>
+      <link>https://xufei.site/tags/graph/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/graph/</guid>
+      <guid>https://xufei.site/tags/graph/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>//localhost:1313/tags/shortcodes/</link>
+      <link>https://xufei.site/tags/shortcodes/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/shortcodes/</guid>
+      <guid>https://xufei.site/tags/shortcodes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Coffee</title>
-      <link>//localhost:1313/tags/coffee/</link>
+      <link>https://xufei.site/tags/coffee/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/coffee/</guid>
+      <guid>https://xufei.site/tags/coffee/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dali</title>
-      <link>//localhost:1313/tags/dali/</link>
+      <link>https://xufei.site/tags/dali/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/dali/</guid>
+      <guid>https://xufei.site/tags/dali/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Design</title>
-      <link>//localhost:1313/tags/design/</link>
+      <link>https://xufei.site/tags/design/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/design/</guid>
+      <guid>https://xufei.site/tags/design/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DigitalNomad</title>
-      <link>//localhost:1313/tags/digitalnomad/</link>
+      <link>https://xufei.site/tags/digitalnomad/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/digitalnomad/</guid>
+      <guid>https://xufei.site/tags/digitalnomad/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Figma</title>
-      <link>//localhost:1313/tags/figma/</link>
+      <link>https://xufei.site/tags/figma/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/figma/</guid>
+      <guid>https://xufei.site/tags/figma/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Knowledge</title>
-      <link>//localhost:1313/tags/knowledge/</link>
+      <link>https://xufei.site/tags/knowledge/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/knowledge/</guid>
+      <guid>https://xufei.site/tags/knowledge/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Notion</title>
-      <link>//localhost:1313/tags/notion/</link>
+      <link>https://xufei.site/tags/notion/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/notion/</guid>
+      <guid>https://xufei.site/tags/notion/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Obsidian</title>
-      <link>//localhost:1313/tags/obsidian/</link>
+      <link>https://xufei.site/tags/obsidian/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/obsidian/</guid>
+      <guid>https://xufei.site/tags/obsidian/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wiki</title>
-      <link>//localhost:1313/tags/wiki/</link>
+      <link>https://xufei.site/tags/wiki/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/tags/wiki/</guid>
+      <guid>https://xufei.site/tags/wiki/</guid>
       <description></description>
       
     </item>

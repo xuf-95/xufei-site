@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xufei on Sherlock XuF</title>
-    <link>//localhost:1313/xufei/</link>
+    <link>https://xufei.site/xufei/</link>
     <description>Recent content in Xufei on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (XuFei)</managingEditor>
     <webMaster>youremail@example.com (XuFei)</webMaster>
     <copyright>© 2024 XuFei</copyright>
-    <atom:link href="//localhost:1313/xufei/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xufei.site/xufei/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

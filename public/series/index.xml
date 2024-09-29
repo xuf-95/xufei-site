@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Sherlock XuF</title>
-    <link>//localhost:1313/series/</link>
+    <link>https://xufei.site/series/</link>
     <description>Recent content in Series on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (XuFei)</managingEditor>
     <webMaster>youremail@example.com (XuFei)</webMaster>
     <copyright>© 2024 XuFei</copyright>
-    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Life</title>
-      <link>//localhost:1313/series/life/</link>
+      <link>https://xufei.site/series/life/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/series/life/</guid>
+      <guid>https://xufei.site/series/life/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Documments</title>
-      <link>//localhost:1313/series/documments/</link>
+      <link>https://xufei.site/series/documments/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/series/documments/</guid>
+      <guid>https://xufei.site/series/documments/</guid>
       <description></description>
       
     </item>

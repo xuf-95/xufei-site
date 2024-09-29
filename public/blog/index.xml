@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> Experience on Sherlock XuF</title>
-    <link>//localhost:1313/blog/</link>
+    <link>https://xufei.site/blog/</link>
     <description>Recent content in  Experience on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (XuFei)</managingEditor>
     <webMaster>youremail@example.com (XuFei)</webMaster>
     <copyright>© 2024 XuFei</copyright>
-    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>how to learn english</title>
-      <link>//localhost:1313/blog/how-to-learn-english/</link>
+      <link>https://xufei.site/blog/how-to-learn-english/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/blog/how-to-learn-english/</guid>
+      <guid>https://xufei.site/blog/how-to-learn-english/</guid>
       <description>Everyday doing things.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/blog/how-to-learn-english/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/how-to-learn-english/featured.png" />
     </item>
     
     <item>
       <title>My Macbook Use</title>
-      <link>//localhost:1313/blog/my-macbook-use/</link>
+      <link>https://xufei.site/blog/my-macbook-use/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/blog/my-macbook-use/</guid>
+      <guid>https://xufei.site/blog/my-macbook-use/</guid>
       <description>About Personal Macbook Application, Tools, Product, Settings..</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/blog/my-macbook-use/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/my-macbook-use/featured.png" />
     </item>
     
     <item>
       <title>时间管理</title>
-      <link>//localhost:1313/blog/time-mange/</link>
+      <link>https://xufei.site/blog/time-mange/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/blog/time-mange/</guid>
+      <guid>https://xufei.site/blog/time-mange/</guid>
       <description>About Personal Macbook Application, Tools, Product, Settings..</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/blog/time-mange/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/time-mange/featured.jpg" />
     </item>
     
     <item>
       <title>思维制高点：真正的高手，都是贝叶斯主义者！</title>
-      <link>//localhost:1313/blog/beiyesi/</link>
+      <link>https://xufei.site/blog/beiyesi/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/blog/beiyesi/</guid>
+      <guid>https://xufei.site/blog/beiyesi/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/blog/beiyesi/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/beiyesi/featured.png" />
     </item>
     
     <item>
       <title>我从来没有目标</title>
-      <link>//localhost:1313/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</link>
+      <link>https://xufei.site/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</link>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</guid>
+      <guid>https://xufei.site/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/featured.png" />
     </item>
     
   </channel>

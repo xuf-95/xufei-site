@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tactics on Sherlock XuF</title>
-    <link>//localhost:1313/tags/tactics/</link>
+    <link>https://xufei.site/tags/tactics/</link>
     <description>Recent content in Tactics on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (XuFei)</managingEditor>
     <webMaster>youremail@example.com (XuFei)</webMaster>
     <copyright>© 2024 XuFei</copyright>
-    <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/tactics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/tactics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>思维制高点：真正的高手，都是贝叶斯主义者！</title>
-      <link>//localhost:1313/blog/beiyesi/</link>
+      <link>https://xufei.site/blog/beiyesi/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>//localhost:1313/blog/beiyesi/</guid>
+      <guid>https://xufei.site/blog/beiyesi/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/blog/beiyesi/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/beiyesi/featured.png" />
     </item>
     
   </channel>

@@ -3,115 +3,115 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://xufei.site/</loc>
     <lastmod>2024-06-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/resume/</loc>
+    <loc>https://xufei.site/resume/</loc>
     <lastmod>2024-06-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/travel/</loc>
+    <loc>https://xufei.site/travel/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/travel/gaoligong/</loc>
+    <loc>https://xufei.site/travel/gaoligong/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>https://xufei.site/blog/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/blog/how-to-learn-english/</loc>
+    <loc>https://xufei.site/blog/how-to-learn-english/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/blog/my-macbook-use/</loc>
+    <loc>https://xufei.site/blog/my-macbook-use/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/blog/time-mange/</loc>
+    <loc>https://xufei.site/blog/time-mange/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/blog/beiyesi/</loc>
+    <loc>https://xufei.site/blog/beiyesi/</loc>
     <lastmod>2022-07-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</loc>
+    <loc>https://xufei.site/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</loc>
     <lastmod>2022-06-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/docs/</loc>
+    <loc>https://xufei.site/docs/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/docs/blowfish-markdown-demo/</loc>
+    <loc>https://xufei.site/docs/blowfish-markdown-demo/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/docs/charts/</loc>
+    <loc>https://xufei.site/docs/charts/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/docs/data-engineer-tools/</loc>
+    <loc>https://xufei.site/docs/data-engineer-tools/</loc>
     <lastmod>2015-03-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/docs/how-to-use-figma/</loc>
+    <loc>https://xufei.site/docs/how-to-use-figma/</loc>
     <lastmod>2015-03-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/docs/how-to-use-notion/</loc>
+    <loc>https://xufei.site/docs/how-to-use-notion/</loc>
     <lastmod>2015-03-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/docs/how-to-use-obsidian/</loc>
+    <loc>https://xufei.site/docs/how-to-use-obsidian/</loc>
     <lastmod>2015-03-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/travel/hutiaoxia/</loc>
+    <loc>https://xufei.site/travel/hutiaoxia/</loc>
     <lastmod>2015-03-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/travel/yunnan-coffee/</loc>
+    <loc>https://xufei.site/travel/yunnan-coffee/</loc>
     <lastmod>2015-03-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
