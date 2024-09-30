@@ -2,152 +2,152 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sherlock XuF</title>
-    <link>http://localhost:1313/xufei-site/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (XuFei)</managingEditor>
     <webMaster>youremail@example.com (XuFei)</webMaster>
     <copyright>© 2024 XuFei</copyright>
-    <lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/xufei-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>高黎贡</title>
-      <link>http://localhost:1313/xufei-site/travel/gaoligong/</link>
+      <link>http://localhost:1313/travel/gaoligong/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/xufei-site/travel/gaoligong/</guid>
+      <guid>http://localhost:1313/travel/gaoligong/</guid>
       <description>穿梭在原始森林：高黎贡</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/xufei-site/travel/gaoligong/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/travel/gaoligong/featured.jpeg" />
     </item>
     
     <item>
       <title>how to learn english</title>
-      <link>http://localhost:1313/xufei-site/blog/how-to-learn-english/</link>
+      <link>http://localhost:1313/blog/how-to-learn-english/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/xufei-site/blog/how-to-learn-english/</guid>
+      <guid>http://localhost:1313/blog/how-to-learn-english/</guid>
       <description>Everyday doing things.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/xufei-site/blog/how-to-learn-english/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/how-to-learn-english/featured.png" />
     </item>
     
     <item>
       <title>My Macbook Use</title>
-      <link>http://localhost:1313/xufei-site/blog/my-macbook-use/</link>
+      <link>http://localhost:1313/blog/my-macbook-use/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/xufei-site/blog/my-macbook-use/</guid>
+      <guid>http://localhost:1313/blog/my-macbook-use/</guid>
       <description>About Personal Macbook Application, Tools, Product, Settings..</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/xufei-site/blog/my-macbook-use/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/my-macbook-use/featured.png" />
     </item>
     
     <item>
       <title>时间管理</title>
-      <link>http://localhost:1313/xufei-site/blog/time-mange/</link>
+      <link>http://localhost:1313/blog/time-mange/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/xufei-site/blog/time-mange/</guid>
+      <guid>http://localhost:1313/blog/time-mange/</guid>
       <description>About Personal Macbook Application, Tools, Product, Settings..</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/xufei-site/blog/time-mange/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/time-mange/featured.jpg" />
     </item>
     
     <item>
       <title>思维制高点：真正的高手，都是贝叶斯主义者！</title>
-      <link>http://localhost:1313/xufei-site/blog/beiyesi/</link>
+      <link>http://localhost:1313/blog/beiyesi/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/xufei-site/blog/beiyesi/</guid>
+      <guid>http://localhost:1313/blog/beiyesi/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/xufei-site/blog/beiyesi/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/beiyesi/featured.png" />
     </item>
     
     <item>
       <title>我从来没有目标</title>
-      <link>http://localhost:1313/xufei-site/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</link>
+      <link>http://localhost:1313/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</link>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/xufei-site/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</guid>
+      <guid>http://localhost:1313/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/xufei-site/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/featured.png" />
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/xufei-site/docs/blowfish-markdown-demo/</link>
+      <link>http://localhost:1313/docs/blowfish-markdown-demo/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/xufei-site/docs/blowfish-markdown-demo/</guid>
+      <guid>http://localhost:1313/docs/blowfish-markdown-demo/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/xufei-site/docs/blowfish-markdown-demo/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/blowfish-markdown-demo/featured.png" />
     </item>
     
     <item>
       <title>Charts</title>
-      <link>http://localhost:1313/xufei-site/docs/charts/</link>
+      <link>http://localhost:1313/docs/charts/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/xufei-site/docs/charts/</guid>
+      <guid>http://localhost:1313/docs/charts/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
       
     </item>
     
     <item>
       <title>Data Engineer Tools</title>
-      <link>http://localhost:1313/xufei-site/docs/data-engineer-tools/</link>
+      <link>http://localhost:1313/docs/data-engineer-tools/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/xufei-site/docs/data-engineer-tools/</guid>
+      <guid>http://localhost:1313/docs/data-engineer-tools/</guid>
       <description>About my development tooks as data engineer</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/xufei-site/docs/data-engineer-tools/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/data-engineer-tools/featured.png" />
     </item>
     
     <item>
       <title>How to use figma</title>
-      <link>http://localhost:1313/xufei-site/docs/how-to-use-figma/</link>
+      <link>http://localhost:1313/docs/how-to-use-figma/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/xufei-site/docs/how-to-use-figma/</guid>
+      <guid>http://localhost:1313/docs/how-to-use-figma/</guid>
       <description>About hou to use figma to design workflows</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/xufei-site/docs/how-to-use-figma/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/how-to-use-figma/featured.png" />
     </item>
     
     <item>
       <title>How to use Notion</title>
-      <link>http://localhost:1313/xufei-site/docs/how-to-use-notion/</link>
+      <link>http://localhost:1313/docs/how-to-use-notion/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/xufei-site/docs/how-to-use-notion/</guid>
+      <guid>http://localhost:1313/docs/how-to-use-notion/</guid>
       <description>About my use of notion to build my personal knowledge system. Includes notion database, table, function, extension, template.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/xufei-site/docs/how-to-use-notion/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/how-to-use-notion/featured.png" />
     </item>
     
     <item>
       <title>How to use Obsidian</title>
-      <link>http://localhost:1313/xufei-site/docs/how-to-use-obsidian/</link>
+      <link>http://localhost:1313/docs/how-to-use-obsidian/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/xufei-site/docs/how-to-use-obsidian/</guid>
+      <guid>http://localhost:1313/docs/how-to-use-obsidian/</guid>
       <description>About my use of notion to build my personal knowledge system. Includes notion database, table, function, extension, template.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/xufei-site/docs/how-to-use-obsidian/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/how-to-use-obsidian/featured.png" />
     </item>
     
     <item>
       <title>Hutiaoxia Hiking</title>
-      <link>http://localhost:1313/xufei-site/travel/hutiaoxia/</link>
+      <link>http://localhost:1313/travel/hutiaoxia/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/xufei-site/travel/hutiaoxia/</guid>
+      <guid>http://localhost:1313/travel/hutiaoxia/</guid>
       <description>穿梭在香格里拉大峡谷，我们在虎跳峡徒步</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/xufei-site/travel/hutiaoxia/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/travel/hutiaoxia/featured.jpeg" />
     </item>
     
     <item>
       <title>Yunnan Coffee</title>
-      <link>http://localhost:1313/xufei-site/travel/yunnan-coffee/</link>
+      <link>http://localhost:1313/travel/yunnan-coffee/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/xufei-site/travel/yunnan-coffee/</guid>
+      <guid>http://localhost:1313/travel/yunnan-coffee/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/xufei-site/travel/yunnan-coffee/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/travel/yunnan-coffee/featured.jpeg" />
     </item>
     
   </channel>

@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel on Sherlock XuF</title>
-    <link>https://xufei.site/tags/travel/</link>
+    <link>http://localhost:1313/tags/travel/</link>
     <description>Recent content in Travel on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (XuFei)</managingEditor>
     <webMaster>youremail@example.com (XuFei)</webMaster>
     <copyright>© 2024 XuFei</copyright>
-    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>高黎贡</title>
-      <link>https://xufei.site/travel/gaoligong/</link>
+      <link>http://localhost:1313/travel/gaoligong/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/travel/gaoligong/</guid>
+      <guid>http://localhost:1313/travel/gaoligong/</guid>
       <description>穿梭在原始森林：高黎贡</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/gaoligong/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/travel/gaoligong/featured.jpeg" />
     </item>
     
     <item>
       <title>Hutiaoxia Hiking</title>
-      <link>https://xufei.site/travel/hutiaoxia/</link>
+      <link>http://localhost:1313/travel/hutiaoxia/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/travel/hutiaoxia/</guid>
+      <guid>http://localhost:1313/travel/hutiaoxia/</guid>
       <description>穿梭在香格里拉大峡谷，我们在虎跳峡徒步</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/hutiaoxia/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/travel/hutiaoxia/featured.jpeg" />
     </item>
     
     <item>
       <title>Yunnan Coffee</title>
-      <link>https://xufei.site/travel/yunnan-coffee/</link>
+      <link>http://localhost:1313/travel/yunnan-coffee/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/travel/yunnan-coffee/</guid>
+      <guid>http://localhost:1313/travel/yunnan-coffee/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/yunnan-coffee/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/travel/yunnan-coffee/featured.jpeg" />
     </item>
     
   </channel>

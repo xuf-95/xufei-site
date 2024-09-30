@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documments on Sherlock XuF</title>
-    <link>https://xufei.site/series/documments/</link>
+    <link>http://localhost:1313/series/documments/</link>
     <description>Recent content in Documments on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (XuFei)</managingEditor>
     <webMaster>youremail@example.com (XuFei)</webMaster>
     <copyright>© 2024 XuFei</copyright>
-    <lastBuildDate>Thu, 12 Mar 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/series/documments/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Mar 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/documments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Engineer Tools</title>
-      <link>https://xufei.site/docs/data-engineer-tools/</link>
+      <link>http://localhost:1313/docs/data-engineer-tools/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/docs/data-engineer-tools/</guid>
+      <guid>http://localhost:1313/docs/data-engineer-tools/</guid>
       <description>About my development tooks as data engineer</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/data-engineer-tools/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/data-engineer-tools/featured.png" />
     </item>
     
     <item>
       <title>How to use figma</title>
-      <link>https://xufei.site/docs/how-to-use-figma/</link>
+      <link>http://localhost:1313/docs/how-to-use-figma/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/docs/how-to-use-figma/</guid>
+      <guid>http://localhost:1313/docs/how-to-use-figma/</guid>
       <description>About hou to use figma to design workflows</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/how-to-use-figma/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/how-to-use-figma/featured.png" />
     </item>
     
     <item>
       <title>How to use Notion</title>
-      <link>https://xufei.site/docs/how-to-use-notion/</link>
+      <link>http://localhost:1313/docs/how-to-use-notion/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/docs/how-to-use-notion/</guid>
+      <guid>http://localhost:1313/docs/how-to-use-notion/</guid>
       <description>About my use of notion to build my personal knowledge system. Includes notion database, table, function, extension, template.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/how-to-use-notion/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/how-to-use-notion/featured.png" />
     </item>
     
     <item>
       <title>How to use Obsidian</title>
-      <link>https://xufei.site/docs/how-to-use-obsidian/</link>
+      <link>http://localhost:1313/docs/how-to-use-obsidian/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/docs/how-to-use-obsidian/</guid>
+      <guid>http://localhost:1313/docs/how-to-use-obsidian/</guid>
       <description>About my use of notion to build my personal knowledge system. Includes notion database, table, function, extension, template.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/how-to-use-obsidian/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/how-to-use-obsidian/featured.png" />
     </item>
     
   </channel>
