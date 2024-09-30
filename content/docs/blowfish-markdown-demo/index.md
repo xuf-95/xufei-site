@@ -57,6 +57,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 | ----- | --- |
 | Bob   | 27  |
 | Alice | 23  |
+| Alic | 25  |
 
 ### Inline Markdown within tables
 
