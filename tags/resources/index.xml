@@ -20,15 +20,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/how-to-learn-english/featured.png" />
     </item>
     
-    <item>
-      <title>首席数据官(CDO)的自我修养</title>
-      <link>https://xufei.site/blog/003-cdo/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/blog/003-cdo/</guid>
-      <description>首席数据官（CDO）在现代企业中扮演着至关重要的角色，负责企业的数据战略、治理、分析与创新。他们通过管理和利用数据资源，推动业务增长，提升决策能力，确保数据合规与安全。随着企业数据量的增长和数据应用的复杂性提高，CDO 将在未来的商业环境中发挥越来越关键的作用</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/003-cdo/featured.png" />
-    </item>
-    
   </channel>
 </rss>
