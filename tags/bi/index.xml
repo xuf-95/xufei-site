@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BI on Sherlock XuF</title>
+    <link>https://xufei.site/tags/bi/</link>
+    <description>Recent content in BI on Sherlock XuF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sherlock.xpf@gmail.com (XuFei)</managingEditor>
+    <webMaster>sherlock.xpf@gmail.com (XuFei)</webMaster>
+    <copyright>© 2024 XuFei</copyright>
+    <lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/bi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FineChatBI</title>
+      <link>https://xufei.site/docs/aliyun-finechatbi/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/docs/aliyun-finechatbi/</guid>
+      <description>通过拖拉拽的方式实现数据报表的生成，简单易用，功能较多</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/aliyun-finechatbi/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resume on Sherlock XuF</title>
-    <link>http://localhost:50976/tags/resume/</link>
+    <link>http://localhost:64878/tags/resume/</link>
     <description>Recent content in Resume on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>youremail@example.com (XuFei)</managingEditor>
-    <webMaster>youremail@example.com (XuFei)</webMaster>
+    <managingEditor>sherlock.xpf@gmail.com (XuFei)</managingEditor>
+    <webMaster>sherlock.xpf@gmail.com (XuFei)</webMaster>
     <copyright>© 2024 XuFei</copyright>
-    <lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50976/tags/resume/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:64878/tags/resume/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to use Notion</title>
-      <link>http://localhost:50976/docs/05-%E4%BD%BF%E7%94%A8oversleaf%E7%94%9F%E6%88%90%E7%AE%80%E5%8E%86/</link>
-      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:50976/docs/05-%E4%BD%BF%E7%94%A8oversleaf%E7%94%9F%E6%88%90%E7%AE%80%E5%8E%86/</guid>
-      <description>使用overleaf生成自己的简历，可以通过网页端进行直接下载或者浏览</description>
+      <title>Github is Your New Resume</title>
+      <link>http://localhost:64878/blog/github-is-new-resume/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>http://localhost:64878/blog/github-is-new-resume/</guid>
+      <description>路漫漫其修远兮，退休前的找工作、改简历、面试也如此。写好简历是一个长期事情。</description>
       
     </item>
     

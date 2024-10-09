@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> Experience on Sherlock XuF</title>
+    <title> Blogs on Sherlock XuF</title>
     <link>https://xufei.site/blog/</link>
-    <description>Recent content in  Experience on Sherlock XuF</description>
+    <description>Recent content in  Blogs on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>youremail@example.com (XuFei)</managingEditor>
-    <webMaster>youremail@example.com (XuFei)</webMaster>
+    <managingEditor>sherlock.xpf@gmail.com (XuFei)</managingEditor>
+    <webMaster>sherlock.xpf@gmail.com (XuFei)</webMaster>
     <copyright>© 2024 XuFei</copyright>
     <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>how to learn english</title>
       <link>https://xufei.site/blog/how-to-learn-english/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/blog/how-to-learn-english/</guid>
       <description>Everyday doing things.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/how-to-learn-english/featured.png" />
@@ -24,7 +24,7 @@
       <title>My Macbook Use</title>
       <link>https://xufei.site/blog/my-macbook-use/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/blog/my-macbook-use/</guid>
       <description>About Personal Macbook Application, Tools, Product, Settings..</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/my-macbook-use/featured.png" />
@@ -34,7 +34,7 @@
       <title>首席数据官(CDO)的自我修养</title>
       <link>https://xufei.site/blog/003-cdo/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/blog/003-cdo/</guid>
       <description>首席数据官（CDO）是数字时代的必然产物，在企业数据管理、数据战略、数据治理、数字资产、数字经济中的作用越来越重要</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/003-cdo/featured.png" />
@@ -44,7 +44,7 @@
       <title>时间管理</title>
       <link>https://xufei.site/blog/005-time-mange/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/blog/005-time-mange/</guid>
       <description>时间管理是一种通过计划和组织来提高效率、优先处理任务的方法，帮助我们在有限的时间内更好地达成目标。有效的时间管理不仅可以提高工作效率，还能减少压力，改善生活质量.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/005-time-mange/featured.jpg" />
@@ -54,7 +54,7 @@
       <title>思维制高点：真正的高手，都是贝叶斯主义者！</title>
       <link>https://xufei.site/blog/beiyesi/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/blog/beiyesi/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/beiyesi/featured.png" />
@@ -64,10 +64,20 @@
       <title>我从来没有目标</title>
       <link>https://xufei.site/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</link>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/featured.png" />
+    </item>
+    
+    <item>
+      <title>数据工程师的软技能</title>
+      <link>https://xufei.site/blog/%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%BD%AF%E6%8A%80%E8%83%BD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/blog/%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%BD%AF%E6%8A%80%E8%83%BD/</guid>
+      <description>软技能可以更好的伪装自己，坚持长期主义，终身学习，在代码之外也可以更好的生存</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%BD%AF%E6%8A%80%E8%83%BD/featured.png" />
     </item>
     
   </channel>

@@ -4,19 +4,31 @@
 
   <url>
     <loc>https://xufei.site/</loc>
-    <lastmod>2024-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://xufei.site/resume/</loc>
-    <lastmod>2024-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://xufei.site/travel/</loc>
-    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://xufei.site/travel/midnight-restaurant-dali/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://xufei.site/travel/hutiaoxia/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -75,8 +87,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://xufei.site/docs/blowfish-markdown-demo/</loc>
-    <lastmod>2021-09-04T00:00:00+00:00</lastmod>
+    <loc>https://xufei.site/docs/aliyun-finechatbi/</loc>
+    <lastmod>2022-05-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -111,14 +123,23 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://xufei.site/travel/hutiaoxia/</loc>
+    <loc>https://xufei.site/travel/yunnan-coffee/</loc>
     <lastmod>2015-03-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://xufei.site/travel/yunnan-coffee/</loc>
-    <lastmod>2015-03-12T00:00:00+00:00</lastmod>
+    <loc>https://xufei.site/travel/bike/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://xufei.site/blog/%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%BD%AF%E6%8A%80%E8%83%BD/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://xufei.site/travel/midnight-restaurant/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

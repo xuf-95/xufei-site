@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on Sherlock XuF</title>
+    <link>http://localhost:64878/tags/people/</link>
+    <description>Recent content in People on Sherlock XuF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sherlock.xpf@gmail.com (XuFei)</managingEditor>
+    <webMaster>sherlock.xpf@gmail.com (XuFei)</webMaster>
+    <copyright>© 2024 XuFei</copyright>
+    <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:64878/tags/people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github is Your New Resume</title>
+      <link>http://localhost:64878/blog/github-is-new-resume/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>http://localhost:64878/blog/github-is-new-resume/</guid>
+      <description>路漫漫其修远兮，退休前的找工作、改简历、面试也如此。写好简历是一个长期事情。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

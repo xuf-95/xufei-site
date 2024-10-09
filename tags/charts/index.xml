@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charts on Sherlock XuF</title>
+    <link>http://localhost:1313/tags/charts/</link>
+    <description>Recent content in Charts on Sherlock XuF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (XuFei)</managingEditor>
+    <webMaster>youremail@example.com (XuFei)</webMaster>
+    <copyright>© 2024 XuFei</copyright>
+    <lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/charts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QucikBI</title>
+      <link>http://localhost:1313/docs/aliyun-quickbi/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>http://localhost:1313/docs/aliyun-quickbi/</guid>
+      <description>Aliyun Visual Charts</description>
+      
+    </item>
+    
+  </channel>
+</rss>

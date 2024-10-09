@@ -6,15 +6,25 @@
     <description>Recent content in Documments on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>youremail@example.com (XuFei)</managingEditor>
-    <webMaster>youremail@example.com (XuFei)</webMaster>
+    <managingEditor>sherlock.xpf@gmail.com (XuFei)</managingEditor>
+    <webMaster>sherlock.xpf@gmail.com (XuFei)</webMaster>
     <copyright>© 2024 XuFei</copyright>
-    <lastBuildDate>Thu, 12 Mar 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/series/documments/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/series/documments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FineChatBI</title>
+      <link>https://xufei.site/docs/aliyun-finechatbi/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/docs/aliyun-finechatbi/</guid>
+      <description>通过拖拉拽的方式实现数据报表的生成，简单易用，功能较多</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/aliyun-finechatbi/featured.png" />
+    </item>
+    
     <item>
       <title>Data Engineer Tools</title>
       <link>https://xufei.site/docs/data-engineer-tools/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/docs/data-engineer-tools/</guid>
       <description>About my development tooks as data engineer</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/data-engineer-tools/featured.png" />
@@ -24,7 +34,7 @@
       <title>How to use figma</title>
       <link>https://xufei.site/docs/how-to-use-figma/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/docs/how-to-use-figma/</guid>
       <description>About hou to use figma to design workflows</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/how-to-use-figma/featured.png" />
@@ -34,7 +44,7 @@
       <title>How to use Notion</title>
       <link>https://xufei.site/docs/how-to-use-notion/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/docs/how-to-use-notion/</guid>
       <description>About my use of notion to build my personal knowledge system. Includes notion database, table, function, extension, template.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/how-to-use-notion/featured.png" />
@@ -44,7 +54,7 @@
       <title>How to use Obsidian</title>
       <link>https://xufei.site/docs/how-to-use-obsidian/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/docs/how-to-use-obsidian/</guid>
       <description>About my use of notion to build my personal knowledge system. Includes notion database, table, function, extension, template.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/how-to-use-obsidian/featured.png" />

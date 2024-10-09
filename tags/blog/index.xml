@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Sherlock XuF</title>
+    <link>https://xufei.site/tags/blog/</link>
+    <description>Recent content in Blog on Sherlock XuF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sherlock.xpf@gmail.com (XuFei)</managingEditor>
+    <webMaster>sherlock.xpf@gmail.com (XuFei)</webMaster>
+    <copyright>© 2024 XuFei</copyright>
+    <atom:link href="https://xufei.site/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>数据工程师的软技能</title>
+      <link>https://xufei.site/blog/%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%BD%AF%E6%8A%80%E8%83%BD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/blog/%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%BD%AF%E6%8A%80%E8%83%BD/</guid>
+      <description>软技能可以更好的伪装自己，坚持长期主义，终身学习，在代码之外也可以更好的生存</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%BD%AF%E6%8A%80%E8%83%BD/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

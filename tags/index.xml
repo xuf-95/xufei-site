@@ -6,16 +6,46 @@
     <description>Recent content in Tags on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>youremail@example.com (XuFei)</managingEditor>
-    <webMaster>youremail@example.com (XuFei)</webMaster>
+    <managingEditor>sherlock.xpf@gmail.com (XuFei)</managingEditor>
+    <webMaster>sherlock.xpf@gmail.com (XuFei)</webMaster>
     <copyright>© 2024 XuFei</copyright>
-    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hike</title>
-      <link>https://xufei.site/tags/hike/</link>
-      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/tags/hike/</guid>
+      <title>Coffee</title>
+      <link>https://xufei.site/tags/coffee/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/tags/coffee/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dali</title>
+      <link>https://xufei.site/tags/dali/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/tags/dali/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DigitalNomad</title>
+      <link>https://xufei.site/tags/digitalnomad/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/tags/digitalnomad/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://xufei.site/tags/food/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/tags/food/</guid>
       <description></description>
       
     </item>
@@ -23,9 +53,19 @@
     <item>
       <title>Travel</title>
       <link>https://xufei.site/tags/travel/</link>
-      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/travel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hike</title>
+      <link>https://xufei.site/tags/hike/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/tags/hike/</guid>
       <description></description>
       
     </item>
@@ -34,7 +74,7 @@
       <title>Bigdata</title>
       <link>https://xufei.site/tags/bigdata/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/bigdata/</guid>
       <description></description>
       
@@ -44,7 +84,7 @@
       <title>CDO</title>
       <link>https://xufei.site/tags/cdo/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/cdo/</guid>
       <description></description>
       
@@ -54,7 +94,7 @@
       <title>Job</title>
       <link>https://xufei.site/tags/job/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/job/</guid>
       <description></description>
       
@@ -64,7 +104,7 @@
       <title>Macbook</title>
       <link>https://xufei.site/tags/macbook/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/macbook/</guid>
       <description></description>
       
@@ -74,7 +114,7 @@
       <title>Resources</title>
       <link>https://xufei.site/tags/resources/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/resources/</guid>
       <description></description>
       
@@ -84,7 +124,7 @@
       <title>Tools</title>
       <link>https://xufei.site/tags/tools/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/tools/</guid>
       <description></description>
       
@@ -94,7 +134,7 @@
       <title>Tutorial</title>
       <link>https://xufei.site/tags/tutorial/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/tutorial/</guid>
       <description></description>
       
@@ -104,7 +144,7 @@
       <title>PKM</title>
       <link>https://xufei.site/tags/pkm/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/pkm/</guid>
       <description></description>
       
@@ -114,7 +154,7 @@
       <title>Think</title>
       <link>https://xufei.site/tags/think/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/think/</guid>
       <description></description>
       
@@ -124,48 +164,18 @@
       <title>Tactics</title>
       <link>https://xufei.site/tags/tactics/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/tactics/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Css</title>
-      <link>https://xufei.site/tags/css/</link>
-      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/tags/css/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Html</title>
-      <link>https://xufei.site/tags/html/</link>
-      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/tags/html/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>https://xufei.site/tags/markdown/</link>
-      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/tags/markdown/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sample</title>
-      <link>https://xufei.site/tags/sample/</link>
-      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/tags/sample/</guid>
+      <title>BI</title>
+      <link>https://xufei.site/tags/bi/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/tags/bi/</guid>
       <description></description>
       
     </item>
@@ -174,7 +184,7 @@
       <title>Chart</title>
       <link>https://xufei.site/tags/chart/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/chart/</guid>
       <description></description>
       
@@ -184,8 +194,18 @@
       <title>Graph</title>
       <link>https://xufei.site/tags/graph/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/graph/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sample</title>
+      <link>https://xufei.site/tags/sample/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/tags/sample/</guid>
       <description></description>
       
     </item>
@@ -194,28 +214,8 @@
       <title>Shortcodes</title>
       <link>https://xufei.site/tags/shortcodes/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/shortcodes/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Coffee</title>
-      <link>https://xufei.site/tags/coffee/</link>
-      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/tags/coffee/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Dali</title>
-      <link>https://xufei.site/tags/dali/</link>
-      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/tags/dali/</guid>
       <description></description>
       
     </item>
@@ -224,18 +224,8 @@
       <title>Design</title>
       <link>https://xufei.site/tags/design/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/design/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>DigitalNomad</title>
-      <link>https://xufei.site/tags/digitalnomad/</link>
-      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
-      <guid>https://xufei.site/tags/digitalnomad/</guid>
       <description></description>
       
     </item>
@@ -244,7 +234,7 @@
       <title>Figma</title>
       <link>https://xufei.site/tags/figma/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/figma/</guid>
       <description></description>
       
@@ -254,7 +244,7 @@
       <title>Knowledge</title>
       <link>https://xufei.site/tags/knowledge/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/knowledge/</guid>
       <description></description>
       
@@ -264,7 +254,7 @@
       <title>Notion</title>
       <link>https://xufei.site/tags/notion/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/notion/</guid>
       <description></description>
       
@@ -274,7 +264,7 @@
       <title>Obsidian</title>
       <link>https://xufei.site/tags/obsidian/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/obsidian/</guid>
       <description></description>
       
@@ -284,8 +274,48 @@
       <title>Wiki</title>
       <link>https://xufei.site/tags/wiki/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/tags/wiki/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bike</title>
+      <link>https://xufei.site/tags/bike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/tags/bike/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://xufei.site/tags/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/tags/blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>https://xufei.site/tags/internet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/tags/internet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Play</title>
+      <link>https://xufei.site/tags/play/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/tags/play/</guid>
       <description></description>
       
     </item>

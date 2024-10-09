@@ -6,18 +6,38 @@
     <description>Recent content in Dali on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>youremail@example.com (XuFei)</managingEditor>
-    <webMaster>youremail@example.com (XuFei)</webMaster>
+    <managingEditor>sherlock.xpf@gmail.com (XuFei)</managingEditor>
+    <webMaster>sherlock.xpf@gmail.com (XuFei)</webMaster>
     <copyright>© 2024 XuFei</copyright>
-    <lastBuildDate>Thu, 12 Mar 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/dali/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/dali/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hutiaoxia Hiking</title>
+      <title>【深夜食堂】大理</title>
+      <link>https://xufei.site/travel/midnight-restaurant-dali/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/travel/midnight-restaurant-dali/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/midnight-restaurant-dali/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>【徒步】虎跳峡</title>
       <link>https://xufei.site/travel/hutiaoxia/</link>
-      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
       <guid>https://xufei.site/travel/hutiaoxia/</guid>
       <description>穿梭在香格里拉大峡谷，我们在虎跳峡徒步</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/hutiaoxia/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>深夜食堂 - 未完...</title>
+      <link>https://xufei.site/travel/midnight-restaurant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/travel/midnight-restaurant/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/midnight-restaurant/featured_00.jpeg" />
     </item>
     
   </channel>

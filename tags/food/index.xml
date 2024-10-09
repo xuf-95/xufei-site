@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food on Sherlock XuF</title>
+    <link>https://xufei.site/tags/food/</link>
+    <description>Recent content in Food on Sherlock XuF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sherlock.xpf@gmail.com (XuFei)</managingEditor>
+    <webMaster>sherlock.xpf@gmail.com (XuFei)</webMaster>
+    <copyright>© 2024 XuFei</copyright>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【深夜食堂】大理</title>
+      <link>https://xufei.site/travel/midnight-restaurant-dali/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/travel/midnight-restaurant-dali/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/midnight-restaurant-dali/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>深夜食堂 - 未完...</title>
+      <link>https://xufei.site/travel/midnight-restaurant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/travel/midnight-restaurant/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/midnight-restaurant/featured_00.jpeg" />
+    </item>
+    
+  </channel>
+</rss>
