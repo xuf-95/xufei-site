@@ -27,6 +27,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://xufei.site/travel/nature-desktop/</loc>
+    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://xufei.site/travel/hutiaoxia/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -45,13 +51,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://xufei.site/blog/how-to-learn-english/</loc>
+    <loc>https://xufei.site/blog/my-macbook-use/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://xufei.site/blog/my-macbook-use/</loc>
+    <loc>https://xufei.site/blog/how-to-learn-english/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -89,12 +95,6 @@
   <url>
     <loc>https://xufei.site/docs/aliyun-finechatbi/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://xufei.site/docs/charts/</loc>
-    <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

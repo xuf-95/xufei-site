@@ -21,6 +21,16 @@
     </item>
     
     <item>
+      <title>大自然恭维</title>
+      <link>https://xufei.site/travel/nature-desktop/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/travel/nature-desktop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>【徒步】虎跳峡</title>
       <link>https://xufei.site/travel/hutiaoxia/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
@@ -41,16 +51,6 @@
     </item>
     
     <item>
-      <title>how to learn english</title>
-      <link>https://xufei.site/blog/how-to-learn-english/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <author>sherlock.xpf@gmail.com (XuFei)</author>
-      <guid>https://xufei.site/blog/how-to-learn-english/</guid>
-      <description>Everyday doing things.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/how-to-learn-english/featured.png" />
-    </item>
-    
-    <item>
       <title>My Macbook Use</title>
       <link>https://xufei.site/blog/my-macbook-use/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
@@ -58,6 +58,16 @@
       <guid>https://xufei.site/blog/my-macbook-use/</guid>
       <description>About Personal Macbook Application, Tools, Product, Settings..</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/my-macbook-use/featured.png" />
+    </item>
+    
+    <item>
+      <title>学习英语的日常</title>
+      <link>https://xufei.site/blog/how-to-learn-english/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <author>sherlock.xpf@gmail.com (XuFei)</author>
+      <guid>https://xufei.site/blog/how-to-learn-english/</guid>
+      <description>Everyday doing things.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/how-to-learn-english/featured.png" />
     </item>
     
     <item>
@@ -111,16 +121,6 @@
     </item>
     
     <item>
-      <title>Charts</title>
-      <link>https://xufei.site/docs/charts/</link>
-      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      <author>sherlock.xpf@gmail.com (XuFei)</author>
-      <guid>https://xufei.site/docs/charts/</guid>
-      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
-      
-    </item>
-    
-    <item>
       <title>Data Engineer Tools</title>
       <link>https://xufei.site/docs/data-engineer-tools/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
@@ -161,7 +161,7 @@
     </item>
     
     <item>
-      <title>Yunnan Coffee</title>
+      <title>大理 Coffee</title>
       <link>https://xufei.site/travel/yunnan-coffee/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>sherlock.xpf@gmail.com (XuFei)</author>
