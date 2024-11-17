@@ -31,36 +31,6 @@
     </item>
     
     <item>
-      <title>【深夜食堂】大理</title>
-      <link>https://xufei.site/travel/midnight-restaurant-dali/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/travel/midnight-restaurant-dali/</guid>
-      <description>每个人都有的深夜食堂，在大理的这部分</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/midnight-restaurant-dali/featured.jpeg" />
-    </item>
-    
-    <item>
-      <title>游民工位</title>
-      <link>https://xufei.site/travel/nature-desktop/</link>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/travel/nature-desktop/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/nature-desktop/featured.jpeg" />
-    </item>
-    
-    <item>
-      <title>【徒步】虎跳峡</title>
-      <link>https://xufei.site/travel/hutiaoxia/</link>
-      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/travel/hutiaoxia/</guid>
-      <description>穿梭在香格里拉大峡谷，我们在虎跳峡徒步</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/hutiaoxia/featured.jpeg" />
-    </item>
-    
-    <item>
       <title>Use Pandas Analysis By exploring COVID-19 Data</title>
       <link>https://xufei.site/docs/use-pandas-exploring-covid-19-data/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
@@ -191,16 +161,6 @@
     </item>
     
     <item>
-      <title>大理 Coffee</title>
-      <link>https://xufei.site/travel/yunnan-coffee/</link>
-      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/travel/yunnan-coffee/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/yunnan-coffee/featured.jpeg" />
-    </item>
-    
-    <item>
       <title>Big Data With AI</title>
       <link>https://xufei.site/docs/database-ai/</link>
       <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
@@ -208,26 +168,6 @@
       <guid>https://xufei.site/docs/database-ai/</guid>
       <description>AI赋能数据工程正在彻底改变数据处理和分析的方式。通过自动化数据清洗、数据集成、数据治理等关键流程。AI算法能够自动识别数据模式、修复异常值、补全缺失数据，从而减少人工干预。在大模型能力不断增强的情况下，大数据生态中的产品也会AI进行优化重构。</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/database-ai/featured.png" />
-    </item>
-    
-    <item>
-      <title>【骑行】2023 </title>
-      <link>https://xufei.site/travel/bike/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/travel/bike/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/bike/featured.jpeg" />
-    </item>
-    
-    <item>
-      <title>深夜食堂 - 未完...</title>
-      <link>https://xufei.site/travel/midnight-restaurant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/travel/midnight-restaurant/</guid>
-      <description>每个人都有的深夜食堂</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/midnight-restaurant/featured_00.jpeg" />
     </item>
     
   </channel>
