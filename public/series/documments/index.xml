@@ -1,53 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Documments on Sherlock XuF</title>
-    <link>http://localhost:1313/series/documments/</link>
-    <description>Recent content in Documments on Sherlock XuF</description>
+    <title>Documments on XuF</title>
+    <link>https://xufei.site/series/documments/</link>
+    <description>Recent content in Documments on XuF</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>youremail@example.com (XuFei)</managingEditor>
-    <webMaster>youremail@example.com (XuFei)</webMaster>
-    <copyright>© 2024 XuFei</copyright>
-    <lastBuildDate>Thu, 12 Mar 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/documments/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor>
+    <webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/series/documments/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data Engineer Tools</title>
-      <link>http://localhost:1313/docs/data-engineer-tools/</link>
-      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/docs/data-engineer-tools/</guid>
-      <description>About my development tooks as data engineer</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/data-engineer-tools/featured.png" />
+      <title>Use Pandas Analysis By exploring COVID-19 Data</title>
+      <link>https://xufei.site/docs/use-pandas-exploring-covid-19-data/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei.site/docs/use-pandas-exploring-covid-19-data/</guid>
+      <description>通过对European Centre for Disease Prevention and Control提供的数据集，使用Pandas做简要数据分析</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/use-pandas-exploring-covid-19-data/featured.png" />
     </item>
     
     <item>
-      <title>How to use figma</title>
-      <link>http://localhost:1313/docs/how-to-use-figma/</link>
-      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/docs/how-to-use-figma/</guid>
-      <description>About hou to use figma to design workflows</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/how-to-use-figma/featured.png" />
+      <title>QucikBI</title>
+      <link>https://xufei.site/docs/aliyun-quickbi/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei.site/docs/aliyun-quickbi/</guid>
+      <description>Aliyun Visual Charts Tools</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/aliyun-quickbi/featured.png" />
+    </item>
+    
+    <item>
+      <title>数仓搭建开发规范-阿里云</title>
+      <link>https://xufei.site/docs/datawarehouse-standard/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei.site/docs/datawarehouse-standard/</guid>
+      <description>阿里云数据仓库开发手册</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/datawarehouse-standard/featured.png" />
+    </item>
+    
+    <item>
+      <title>Building a Universal AI Scraper</title>
+      <link>https://xufei.site/docs/spider/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei.site/docs/spider/</guid>
+      <description>HTML + Text Search + Text Model</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/spider/featured.png" />
+    </item>
+    
+    <item>
+      <title>MySQL DDL 批量映射 ODPS DDL 脚本</title>
+      <link>https://xufei.site/docs/mysql-ddl-mapping-odps-ddl/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei.site/docs/mysql-ddl-mapping-odps-ddl/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/mysql-ddl-mapping-odps-ddl/featured.png" />
     </item>
     
     <item>
       <title>How to use Notion</title>
-      <link>http://localhost:1313/docs/how-to-use-notion/</link>
+      <link>https://xufei.site/docs/how-to-use-notion/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/docs/how-to-use-notion/</guid>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei.site/docs/how-to-use-notion/</guid>
       <description>About my use of notion to build my personal knowledge system. Includes notion database, table, function, extension, template.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/how-to-use-notion/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/how-to-use-notion/featured.png" />
     </item>
     
     <item>
-      <title>How to use Obsidian</title>
-      <link>http://localhost:1313/docs/how-to-use-obsidian/</link>
-      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/docs/how-to-use-obsidian/</guid>
-      <description>About my use of notion to build my personal knowledge system. Includes notion database, table, function, extension, template.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/how-to-use-obsidian/featured.png" />
+      <title>Big Data With AI</title>
+      <link>https://xufei.site/docs/database-ai/</link>
+      <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei.site/docs/database-ai/</guid>
+      <description>AI赋能数据工程正在彻底改变数据处理和分析的方式。通过自动化数据清洗、数据集成、数据治理等关键流程。AI算法能够自动识别数据模式、修复异常值、补全缺失数据，从而减少人工干预。在大模型能力不断增强的情况下，大数据生态中的产品也会AI进行优化重构。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/database-ai/featured.png" />
     </item>
     
   </channel>

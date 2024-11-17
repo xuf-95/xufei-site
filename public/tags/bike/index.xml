@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bike on XuF</title>
+    <link>https://xufei.site/tags/bike/</link>
+    <description>Recent content in Bike on XuF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor>
+    <webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <atom:link href="https://xufei.site/tags/bike/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【骑行】2023 </title>
+      <link>https://xufei.site/travel/bike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei.site/travel/bike/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/bike/featured.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

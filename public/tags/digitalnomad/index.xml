@@ -1,23 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DigitalNomad on Sherlock XuF</title>
-    <link>http://localhost:1313/tags/digitalnomad/</link>
-    <description>Recent content in DigitalNomad on Sherlock XuF</description>
+    <title>DigitalNomad on XuF</title>
+    <link>https://xufei.site/tags/digitalnomad/</link>
+    <description>Recent content in DigitalNomad on XuF</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>youremail@example.com (XuFei)</managingEditor>
-    <webMaster>youremail@example.com (XuFei)</webMaster>
-    <copyright>© 2024 XuFei</copyright>
-    <lastBuildDate>Thu, 12 Mar 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/digitalnomad/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor>
+    <webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/digitalnomad/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hutiaoxia Hiking</title>
-      <link>http://localhost:1313/travel/hutiaoxia/</link>
-      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (XuFei)</author>
-      <guid>http://localhost:1313/travel/hutiaoxia/</guid>
+      <title>【深夜食堂】大理</title>
+      <link>https://xufei.site/travel/midnight-restaurant-dali/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei.site/travel/midnight-restaurant-dali/</guid>
+      <description>每个人都有的深夜食堂，在大理的这部分</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/midnight-restaurant-dali/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>游民工位</title>
+      <link>https://xufei.site/travel/nature-desktop/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei.site/travel/nature-desktop/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/nature-desktop/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>【徒步】虎跳峡</title>
+      <link>https://xufei.site/travel/hutiaoxia/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei.site/travel/hutiaoxia/</guid>
       <description>穿梭在香格里拉大峡谷，我们在虎跳峡徒步</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/travel/hutiaoxia/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/hutiaoxia/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>深夜食堂 - 未完...</title>
+      <link>https://xufei.site/travel/midnight-restaurant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei.site/travel/midnight-restaurant/</guid>
+      <description>每个人都有的深夜食堂</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/travel/midnight-restaurant/featured_00.jpeg" />
     </item>
     
   </channel>
