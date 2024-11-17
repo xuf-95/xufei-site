@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on XuF</title>
-    <link>https://xufei.site/tags/tools/</link>
+    <link>http://localhost:1313/tags/tools/</link>
     <description>Recent content in Tools on XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor>
     <webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 许飛</copyright>
+    <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>W3 </title>
-      <link>https://xufei.site/week/20241103/</link>
+      <link>http://localhost:1313/week/20241103/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/week/20241103/</guid>
+      <guid>http://localhost:1313/week/20241103/</guid>
       <description>About my development tooks as data engineer</description>
       
     </item>
     
     <item>
       <title>W1 op </title>
-      <link>https://xufei.site/week/20241101/</link>
+      <link>http://localhost:1313/week/20241101/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/week/20241101/</guid>
+      <guid>http://localhost:1313/week/20241101/</guid>
       <description>About my development tooks as data engineer</description>
       
     </item>
     
     <item>
       <title>My Macbook Use</title>
-      <link>https://xufei.site/docs/my-macbook-use/</link>
+      <link>http://localhost:1313/docs/my-macbook-use/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/docs/my-macbook-use/</guid>
+      <guid>http://localhost:1313/docs/my-macbook-use/</guid>
       <description>About Personal Macbook Application, Tools, Product, Settings..</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/my-macbook-use/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/my-macbook-use/featured.png" />
     </item>
     
     <item>
       <title>QucikBI</title>
-      <link>https://xufei.site/docs/aliyun-quickbi/</link>
+      <link>http://localhost:1313/docs/aliyun-quickbi/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/docs/aliyun-quickbi/</guid>
+      <guid>http://localhost:1313/docs/aliyun-quickbi/</guid>
       <description>Aliyun Visual Charts Tools</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/aliyun-quickbi/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/aliyun-quickbi/featured.png" />
     </item>
     
     <item>
       <title>Big Data With AI</title>
-      <link>https://xufei.site/docs/database-ai/</link>
+      <link>http://localhost:1313/docs/database-ai/</link>
       <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/docs/database-ai/</guid>
+      <guid>http://localhost:1313/docs/database-ai/</guid>
       <description>AI赋能数据工程正在彻底改变数据处理和分析的方式。通过自动化数据清洗、数据集成、数据治理等关键流程。AI算法能够自动识别数据模式、修复异常值、补全缺失数据，从而减少人工干预。在大模型能力不断增强的情况下，大数据生态中的产品也会AI进行优化重构。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/database-ai/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/database-ai/featured.png" />
     </item>
     
   </channel>

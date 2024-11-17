@@ -2,250 +2,270 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on XuF</title>
-    <link>https://xufei.site/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor>
     <webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 许飛</copyright>
+    <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aliyun</title>
-      <link>https://xufei.site/tags/aliyun/</link>
+      <link>http://localhost:1313/tags/aliyun/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/aliyun/</guid>
+      <guid>http://localhost:1313/tags/aliyun/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Data-Compute</title>
-      <link>https://xufei.site/tags/data-compute/</link>
+      <link>http://localhost:1313/tags/data-compute/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/data-compute/</guid>
+      <guid>http://localhost:1313/tags/data-compute/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tools</title>
-      <link>https://xufei.site/tags/tools/</link>
+      <link>http://localhost:1313/tags/tools/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/tools/</guid>
+      <guid>http://localhost:1313/tags/tools/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>https://xufei.site/tags/tutorial/</link>
+      <link>http://localhost:1313/tags/tutorial/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/tutorial/</guid>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>https://xufei.site/tags/pandas/</link>
+      <link>http://localhost:1313/tags/pandas/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/pandas/</guid>
+      <guid>http://localhost:1313/tags/pandas/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Bigdata</title>
-      <link>https://xufei.site/tags/bigdata/</link>
+      <link>http://localhost:1313/tags/bigdata/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/bigdata/</guid>
+      <guid>http://localhost:1313/tags/bigdata/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>CDO</title>
-      <link>https://xufei.site/tags/cdo/</link>
+      <link>http://localhost:1313/tags/cdo/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/cdo/</guid>
+      <guid>http://localhost:1313/tags/cdo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Job</title>
-      <link>https://xufei.site/tags/job/</link>
+      <link>http://localhost:1313/tags/job/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/job/</guid>
+      <guid>http://localhost:1313/tags/job/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Macbook</title>
-      <link>https://xufei.site/tags/macbook/</link>
+      <link>http://localhost:1313/tags/macbook/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/macbook/</guid>
+      <guid>http://localhost:1313/tags/macbook/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Resources</title>
-      <link>https://xufei.site/tags/resources/</link>
+      <link>http://localhost:1313/tags/resources/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/resources/</guid>
+      <guid>http://localhost:1313/tags/resources/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>BI</title>
-      <link>https://xufei.site/tags/bi/</link>
+      <link>http://localhost:1313/tags/bi/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/bi/</guid>
+      <guid>http://localhost:1313/tags/bi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Charts</title>
-      <link>https://xufei.site/tags/charts/</link>
+      <link>http://localhost:1313/tags/charts/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/charts/</guid>
+      <guid>http://localhost:1313/tags/charts/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Database</title>
-      <link>https://xufei.site/tags/database/</link>
+      <link>http://localhost:1313/tags/database/</link>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/database/</guid>
+      <guid>http://localhost:1313/tags/database/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ODPS</title>
-      <link>https://xufei.site/tags/odps/</link>
+      <link>http://localhost:1313/tags/odps/</link>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/odps/</guid>
+      <guid>http://localhost:1313/tags/odps/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PKM</title>
-      <link>https://xufei.site/tags/pkm/</link>
+      <link>http://localhost:1313/tags/pkm/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/pkm/</guid>
+      <guid>http://localhost:1313/tags/pkm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Think</title>
-      <link>https://xufei.site/tags/think/</link>
+      <link>http://localhost:1313/tags/think/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/think/</guid>
+      <guid>http://localhost:1313/tags/think/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>http://localhost:1313/tags/design/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>http://localhost:1313/tags/design/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Figma</title>
+      <link>http://localhost:1313/tags/figma/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>http://localhost:1313/tags/figma/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Model</title>
-      <link>https://xufei.site/tags/model/</link>
+      <link>http://localhost:1313/tags/model/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/model/</guid>
+      <guid>http://localhost:1313/tags/model/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Reship</title>
-      <link>https://xufei.site/tags/reship/</link>
+      <link>http://localhost:1313/tags/reship/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/reship/</guid>
+      <guid>http://localhost:1313/tags/reship/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>MySQL</title>
-      <link>https://xufei.site/tags/mysql/</link>
+      <link>http://localhost:1313/tags/mysql/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/mysql/</guid>
+      <guid>http://localhost:1313/tags/mysql/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Script</title>
-      <link>https://xufei.site/tags/script/</link>
+      <link>http://localhost:1313/tags/script/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/script/</guid>
+      <guid>http://localhost:1313/tags/script/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://xufei.site/tags/blog/</link>
+      <link>http://localhost:1313/tags/blog/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/blog/</guid>
+      <guid>http://localhost:1313/tags/blog/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wiki</title>
-      <link>https://xufei.site/tags/wiki/</link>
+      <link>http://localhost:1313/tags/wiki/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/wiki/</guid>
+      <guid>http://localhost:1313/tags/wiki/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Knowledge</title>
-      <link>https://xufei.site/tags/knowledge/</link>
+      <link>http://localhost:1313/tags/knowledge/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/knowledge/</guid>
+      <guid>http://localhost:1313/tags/knowledge/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Notion</title>
-      <link>https://xufei.site/tags/notion/</link>
+      <link>http://localhost:1313/tags/notion/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/tags/notion/</guid>
+      <guid>http://localhost:1313/tags/notion/</guid>
       <description></description>
       
     </item>

@@ -3,114 +3,114 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://xufei.site/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://xufei.site/"
+      href="http://localhost:1313/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://xufei.site/en/"
+      href="http://localhost:1313/en/"
     />
   </url>
   <url>
-    <loc>https://xufei.site/en/docs/</loc>
+    <loc>http://localhost:1313/en/docs/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://xufei.site/docs/"
+      href="http://localhost:1313/docs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://xufei.site/en/docs/"
+      href="http://localhost:1313/en/docs/"
     />
   </url>
   <url>
-    <loc>https://xufei.site/en/week/20241103/</loc>
+    <loc>http://localhost:1313/en/week/20241103/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://xufei.site/week/20241103/"
+      href="http://localhost:1313/week/20241103/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://xufei.site/en/week/20241103/"
+      href="http://localhost:1313/en/week/20241103/"
     />
   </url>
   <url>
-    <loc>https://xufei.site/en/week/</loc>
+    <loc>http://localhost:1313/en/week/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://xufei.site/week/"
+      href="http://localhost:1313/week/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://xufei.site/en/week/"
+      href="http://localhost:1313/en/week/"
     />
   </url>
   <url>
-    <loc>https://xufei.site/en/week/20241101/</loc>
+    <loc>http://localhost:1313/en/week/20241101/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://xufei.site/week/20241101/"
+      href="http://localhost:1313/week/20241101/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://xufei.site/en/week/20241101/"
+      href="http://localhost:1313/en/week/20241101/"
     />
   </url>
   <url>
-    <loc>https://xufei.site/en/resume/</loc>
+    <loc>http://localhost:1313/en/resume/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://xufei.site/resume/"
+      href="http://localhost:1313/resume/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://xufei.site/en/resume/"
+      href="http://localhost:1313/en/resume/"
     />
   </url>
   <url>
-    <loc>https://xufei.site/en/todo/</loc>
+    <loc>http://localhost:1313/en/todo/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://xufei.site/todo/"
+      href="http://localhost:1313/todo/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://xufei.site/en/todo/"
+      href="http://localhost:1313/en/todo/"
     />
   </url>
 </urlset>

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xufei on XuF</title>
-    <link>https://xufei.site/xufei/</link>
+    <link>http://localhost:1313/xufei/</link>
     <description>Recent content in Xufei on XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor>
     <webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <atom:link href="https://xufei.site/xufei/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 许飛</copyright>
+    <atom:link href="http://localhost:1313/xufei/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
