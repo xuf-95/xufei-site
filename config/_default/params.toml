@@ -46,7 +46,7 @@ highlightCurrentMenuArea = true
   showDateUpdated = true
   showAuthor = true
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -65,6 +65,7 @@ highlightCurrentMenuArea = true
   showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = true
+  showZenMode = true
   sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
 
@@ -78,10 +79,13 @@ highlightCurrentMenuArea = true
   showViews = false
   showLikes = false
   showTableOfContents = true
-  showCards = true
+  showCards = false
   groupByYear = false
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
+  constrainItemsWidth = true
+
+
 
 [sitemap]
   excludedKinds = [ "taxonomy", "term" ]

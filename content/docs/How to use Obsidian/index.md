@@ -8,6 +8,7 @@ summary: "About my use of notion to build my personal knowledge system. Includes
 groupByYear: true
 showSummary: true
 showDateUpdated: true
+draft: true
 ---
 ## Why choose Obsidian
 1. Local Storage & Privacy

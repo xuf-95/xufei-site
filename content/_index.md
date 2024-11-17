@@ -1,6 +1,6 @@
 ---
 description: this is my description
 ---
-I’m a dedicated Big Data Developer with over three years of hands-on experience in the ever-evolving world of data. My journey began with a passion for understanding how massive datasets can drive business value, leading me to specialize in data processing, analysis, and optimization using tools like Apache Spark, Hadoop, and Kafka. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.
+我是一位大数据工程师同时也对区块链技术感兴。 我有基于[Obsidian](https://obsidian.md/)和[Quartz](https://quartz.jzhao.xyz/) 创建了一个[Wiki](https://xuf-95.github.io/xufei-wiki/) 知识库用于记录大数据工程相关的知识学习和工作经验积累。你还可以访问我的 [Bento](https://bento.me/xfei)，查看我的其他媒体账户。
 
--- xufei
+***我相信衡量生命的标准不是时间，而是经历。所以我一直在探索***

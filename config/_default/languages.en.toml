@@ -1,7 +1,6 @@
-disabled = false
 languageCode = "en"
 languageName = "English"
-weight = 1
+weight = 2
 title = "Sherlock XuF"
 
 [params]
@@ -9,19 +8,19 @@ title = "Sherlock XuF"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "XuFei"
-  email = "youremail@example.com"
+  email = "https://mail.google.com/mail/u/0/#inbox"
   image = "img/Crossbell IPFS.png"
   imageQuality = 96
-  bio = "A little bit about you"
+  bio = "Data Engineer"
   links = [
-    { email = "mailto:hello@your_domain.com" },
+    { email = "https://mail.google.com/mail/u/0/#inbox" },
     { github = "https://github.com/xuf-95" },
     { discord = "https://discord.gg/xuf" },
     { x-twitter = "https://x.com/home" },
@@ -29,7 +28,7 @@ title = "Sherlock XuF"
     { linkedin = "https://www.linkedin.com/in/%E9%A3%9E-%E8%AE%B8-89b118293/" },
     { telegram = "https://t.me/username" },
   ]
-  headline = "Hello, and welcome to my blog! I'm XuFei"
+  headline = "Hello! welcome to my blog."
 
 
 

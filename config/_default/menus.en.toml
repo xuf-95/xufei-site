@@ -11,23 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "blog"
+  name = "Posts"
+  pageRef = "/docs"
   weight = 10
 
+
 [[main]]
-  name = "Doc"
-  pageRef = "/docs"
-  weight = 20
+  name = "WeeklyReport"
+  pageRef = "/week"
+  weight = 30
 
 [[main]]
   name = "Resume"
   pageRef = "/resume"
-  weight = 30
-
-[[main]]
-  name = "Experience"
-  pageRef = "/travel"
   weight = 40
 
 [[main]]
@@ -36,6 +32,14 @@
   url = "https://xuf-95.github.io/xufei-wiki/"
   weight = 50
 
+
+#[[main]]
+#  name = "Experience"
+#  pageRef = "/travel"
+#  weight = 40
+
+
+
 # [[main]]
 #   name = "Tags"
 #   pageRef = "tags"
@@ -43,9 +47,9 @@
 
 
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+# [[main]]
+#   name = "Parent"
+#   weight = 20
 
 #[[main]]
 #  name = "example sub-menu 1"

@@ -4,16 +4,20 @@ date: "2015-03-12"
 tags: ["tutorial", "tools"]
 category: ["Product"]
 series: ["Documments"]
-summary: "About my development tooks as data engineer"
+summary: ""
 groupByYear: true
 showSummary: true
 showDateUpdated: trues
+draft: true
 ---
 
 ## Local Environment
 
-### Macbook Application
+
+
+## Macbook Application
 
 ## Databases Tools
 
 ## IDE Tools
+

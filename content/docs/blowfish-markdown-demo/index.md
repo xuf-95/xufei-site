@@ -5,6 +5,7 @@ description: "Sample article showcasing basic Markdown syntax and formatting for
 tags: ["markdown", "css", "html", "sample"]
 type: 'sample'
 showdate: true
+draft: true
 ---
 
 This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.
@@ -192,3 +193,99 @@ Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and ot
         </tr>
     </tbody>
 </table>
+
+
+<a target="_blank" href="https://mentorcruise.com/mentor/nunocorao/"> <img class="nozoom" src="https://cdn.mentorcruise.com/img/banner/sky-sm.svg" width="240" alt="MentorCruise"> </a>
+
+
+## Photographer
+{{< figure
+    src="abstract.jpg"
+    alt="Abstract purple artwork"
+    caption="Photo by [Jr Korpa](https://unsplash.com/@jrkorpa) on [Unsplash](https://unsplash.com/)"
+    >}}
+
+<!-- OR -->
+
+![Abstract purple artwork](abstract.jpg "Photo by [Jr Korpa](https://unsplash.com/@jrkorpa) on [Unsplash](https://unsplash.com/)")
+
+
+
+### Table
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Comparison Table</title>
+    <style>
+        table {
+            background-color: #373563; /* dark gray background for dark theme */
+            color: #ffffff; /* white text for dark theme */
+            margin-left: auto;
+            margin-right: auto;
+            width: 80%;
+            border-collapse: collapse;
+            font-size: 12.5px;
+        }
+        th, td {
+            text-align: left;
+            padding: 5px;
+        }
+        caption {
+            caption-side: top; /* Caption position: top or bottom */
+            font-size: 18px; /* Adjust caption font size as needed */
+            font-weight: bold; /* Optional: makes the caption text bold */
+            padding: 5px; /* Optional: adds padding around the caption */
+        }
+    </style>
+</head>
+<body>
+
+<table border="1">
+  <caption>Bayesian vs. Frequentist Statistics</caption>
+  <colgroup>
+    <col style="width: 20%;">
+    <col style="width: 40%;">
+    <col style="width: 40%;">
+  </colgroup>
+  <tr>
+    <th></th>
+    <th>Frequentist</th>
+    <th>Bayesian</th>
+  </tr>
+  <tr>
+    <td>Answer given</td>
+    <td>Probability of the observed data given an underlying truth</td>
+    <td>Probability of the truth given the observed data</td>
+  </tr>
+  <tr>
+    <td>Population parameter</td>
+    <td>Fixed, but unknown</td>
+    <td>Prob. distribution of values</td>
+  </tr>
+  <tr>
+    <td>Outcome measure</td>
+    <td>Probability of extreme results, assuming null hypothesis (P value)</td>
+    <td>Posterior probability of the hypothesis</td>
+  </tr>
+  <tr>
+    <td>Weaknesses</td>
+    <td>Logical inconsistency with clinical decision-making</td>
+    <td>Subjectivity in priors' choice; complexity in PKPD modeling</td>
+  </tr>
+  <tr>
+    <td>Strengths</td>
+    <td>No need for priors; well-known methods</td>
+    <td>Consistency with clinical decision-making</td>
+  </tr>
+  <tr>
+    <td>PKPD application</td>
+    <td>Good estimates with large data</td>
+    <td>Adaptation of data to individuals</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+{{< github repo="hzpt-inet-club/english-note">}}

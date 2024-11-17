@@ -4,7 +4,7 @@
 
 theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://xufei.site/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
@@ -48,9 +48,9 @@ enableEmoji = true
         name = "categories"
         weight = 100
 
-    [[related.indices]]
-        name = "series"
-        weight = 50
+#    [[related.indices]]
+#        name = "series"
+#        weight = 50
 
     [[related.indices]]
         name = "authors"
