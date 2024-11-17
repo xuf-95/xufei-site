@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Model on XuF</title>
-    <link>http://localhost:1313/tags/model/</link>
+    <link>https://xufei.site/tags/model/</link>
     <description>Recent content in Model on XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor>
     <webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/model/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/model/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>贝叶斯主义者如何思考</title>
-      <link>http://localhost:1313/docs/bei-ye-si/</link>
+      <link>https://xufei.site/docs/bei-ye-si/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>http://localhost:1313/docs/bei-ye-si/</guid>
+      <guid>https://xufei.site/docs/bei-ye-si/</guid>
       <description>贝叶斯主义是一种关于概率和统计的哲学观点，它强调信念的主观性和更新。在该观点中，贝叶斯公式是一个核心的工具，用于处理不确定性，更新信念，并指导决策。“可纠错的反馈闭环”结合“贝叶斯公式”辅助你形成自己的行动思考框架</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/bei-ye-si/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/bei-ye-si/featured.png" />
     </item>
     
   </channel>

@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ODPS on XuF</title>
-    <link>http://localhost:1313/tags/odps/</link>
+    <link>https://xufei.site/tags/odps/</link>
     <description>Recent content in ODPS on XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor>
     <webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/odps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/odps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>数仓搭建开发规范-阿里云</title>
-      <link>http://localhost:1313/docs/datawarehouse-standard/</link>
+      <link>https://xufei.site/docs/datawarehouse-standard/</link>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>http://localhost:1313/docs/datawarehouse-standard/</guid>
+      <guid>https://xufei.site/docs/datawarehouse-standard/</guid>
       <description>阿里云数据仓库开发手册</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/datawarehouse-standard/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/datawarehouse-standard/featured.png" />
     </item>
     
     <item>
       <title>Building a Universal AI Scraper</title>
-      <link>http://localhost:1313/docs/spider/</link>
+      <link>https://xufei.site/docs/spider/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>http://localhost:1313/docs/spider/</guid>
+      <guid>https://xufei.site/docs/spider/</guid>
       <description>HTML + Text Search + Text Model</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/spider/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/spider/featured.png" />
     </item>
     
     <item>
       <title>MySQL DDL 批量映射 ODPS DDL 脚本</title>
-      <link>http://localhost:1313/docs/mysql-ddl-mapping-odps-ddl/</link>
+      <link>https://xufei.site/docs/mysql-ddl-mapping-odps-ddl/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>http://localhost:1313/docs/mysql-ddl-mapping-odps-ddl/</guid>
+      <guid>https://xufei.site/docs/mysql-ddl-mapping-odps-ddl/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/mysql-ddl-mapping-odps-ddl/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/mysql-ddl-mapping-odps-ddl/featured.png" />
     </item>
     
   </channel>

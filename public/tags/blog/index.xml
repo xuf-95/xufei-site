@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on XuF</title>
-    <link>http://localhost:1313/tags/blog/</link>
+    <link>https://xufei.site/tags/blog/</link>
     <description>Recent content in Blog on XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor>
     <webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>知识管理体系：构建你的数据花园</title>
-      <link>http://localhost:1313/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/</link>
+      <link>https://xufei.site/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>http://localhost:1313/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/</guid>
+      <guid>https://xufei.site/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/</guid>
       <description>构建一个数据花园不仅是提升个人或企业知识管理能力的有力工具，也是一种提升认知水平、增强决策能力的方式。通过持续捕捉、整理和优化知识，我们能够在信息的海洋中收获真正有价值的洞见，推动自身和组织的持续成长。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/featured.png" />
     </item>
     
   </channel>
