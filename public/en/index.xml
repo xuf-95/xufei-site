@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sherlock XuF</title>
-    <link>https://xufei.site/en/</link>
+    <link>http://localhost:1313/en/</link>
     <description>Recent content on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>https://mail.google.com/mail/u/0/#inbox (XuFei)</managingEditor>
     <webMaster>https://mail.google.com/mail/u/0/#inbox (XuFei)</webMaster>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>W3 </title>
-      <link>https://xufei.site/en/week/20241103/</link>
+      <link>http://localhost:1313/en/week/20241103/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (XuFei)</author>
-      <guid>https://xufei.site/en/week/20241103/</guid>
+      <guid>http://localhost:1313/en/week/20241103/</guid>
       <description>About my development tooks as data engineer</description>
       
     </item>
     
     <item>
       <title>W1 op </title>
-      <link>https://xufei.site/en/week/20241101/</link>
+      <link>http://localhost:1313/en/week/20241101/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (XuFei)</author>
-      <guid>https://xufei.site/en/week/20241101/</guid>
+      <guid>http://localhost:1313/en/week/20241101/</guid>
       <description>About my development tooks as data engineer</description>
       
     </item>

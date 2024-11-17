@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sherlock XuF</title>
-    <link>https://xufei.site/en/tags/</link>
+    <link>http://localhost:1313/en/tags/</link>
     <description>Recent content in Tags on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>https://mail.google.com/mail/u/0/#inbox (XuFei)</managingEditor>
     <webMaster>https://mail.google.com/mail/u/0/#inbox (XuFei)</webMaster>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aliyun</title>
-      <link>https://xufei.site/en/tags/aliyun/</link>
+      <link>http://localhost:1313/en/tags/aliyun/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (XuFei)</author>
-      <guid>https://xufei.site/en/tags/aliyun/</guid>
+      <guid>http://localhost:1313/en/tags/aliyun/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Data-Compute</title>
-      <link>https://xufei.site/en/tags/data-compute/</link>
+      <link>http://localhost:1313/en/tags/data-compute/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (XuFei)</author>
-      <guid>https://xufei.site/en/tags/data-compute/</guid>
+      <guid>http://localhost:1313/en/tags/data-compute/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tools</title>
-      <link>https://xufei.site/en/tags/tools/</link>
+      <link>http://localhost:1313/en/tags/tools/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (XuFei)</author>
-      <guid>https://xufei.site/en/tags/tools/</guid>
+      <guid>http://localhost:1313/en/tags/tools/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>https://xufei.site/en/tags/tutorial/</link>
+      <link>http://localhost:1313/en/tags/tutorial/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (XuFei)</author>
-      <guid>https://xufei.site/en/tags/tutorial/</guid>
+      <guid>http://localhost:1313/en/tags/tutorial/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PKM</title>
-      <link>https://xufei.site/en/tags/pkm/</link>
+      <link>http://localhost:1313/en/tags/pkm/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (XuFei)</author>
-      <guid>https://xufei.site/en/tags/pkm/</guid>
+      <guid>http://localhost:1313/en/tags/pkm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://xufei.site/en/tags/blog/</link>
+      <link>http://localhost:1313/en/tags/blog/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (XuFei)</author>
-      <guid>https://xufei.site/en/tags/blog/</guid>
+      <guid>http://localhost:1313/en/tags/blog/</guid>
       <description></description>
       
     </item>

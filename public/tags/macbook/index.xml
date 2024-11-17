@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Macbook on XuF</title>
-    <link>https://xufei.site/tags/macbook/</link>
+    <link>http://localhost:1313/tags/macbook/</link>
     <description>Recent content in Macbook on XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor>
     <webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/macbook/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/macbook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Macbook Use</title>
-      <link>https://xufei.site/docs/my-macbook-use/</link>
+      <link>http://localhost:1313/docs/my-macbook-use/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei.site/docs/my-macbook-use/</guid>
+      <guid>http://localhost:1313/docs/my-macbook-use/</guid>
       <description>About Personal Macbook Application, Tools, Product, Settings..</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/my-macbook-use/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/my-macbook-use/featured.png" />
     </item>
     
   </channel>
