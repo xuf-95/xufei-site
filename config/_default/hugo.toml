@@ -3,7 +3,8 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://xufei.site/"
+baseURL = 'https://xufei-site/'
+publishDir = "public"
 defaultContentLanguage = "zh-cn"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -66,10 +67,5 @@ enableEmoji = true
       type = 'fragments'
       weight = 10
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    noClasses = false
+
 
