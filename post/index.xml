@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sherlock XuF</title>
+    <link>//localhost:1313/post/</link>
+    <description>Recent content in Posts on Sherlock XuF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (XuFei)</managingEditor>
+    <webMaster>youremail@example.com (XuFei)</webMaster>
+    <copyright>© 2024 XuFei</copyright>
+    <lastBuildDate>Wed, 24 Jan 2024 14:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>思维制高点：真正的高手，都是贝叶斯主义者！</title>
+      <link>//localhost:1313/post/beiyesi/</link>
+      <pubDate>Wed, 24 Jan 2024 14:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>//localhost:1313/post/beiyesi/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

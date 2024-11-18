@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Sherlock XuF</title>
+    <link>https://xufei.site/tags/tools/</link>
+    <description>Recent content in Tools on Sherlock XuF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (XuFei)</managingEditor>
+    <webMaster>youremail@example.com (XuFei)</webMaster>
+    <copyright>© 2024 XuFei</copyright>
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Macbook Use</title>
+      <link>https://xufei.site/blog/my-macbook-use/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>https://xufei.site/blog/my-macbook-use/</guid>
+      <description>About Personal Macbook Application, Tools, Product, Settings..</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/blog/my-macbook-use/featured.png" />
+    </item>
+    
+    <item>
+      <title>Data Engineer Tools</title>
+      <link>https://xufei.site/docs/data-engineer-tools/</link>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>https://xufei.site/docs/data-engineer-tools/</guid>
+      <description>About my development tooks as data engineer</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/data-engineer-tools/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

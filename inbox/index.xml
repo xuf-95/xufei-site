@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sherlock XuF</title>
+    <link>//localhost:1313/inbox/</link>
+    <description>Recent content on Sherlock XuF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (XuFei)</managingEditor>
+    <webMaster>youremail@example.com (XuFei)</webMaster>
+    <copyright>© 2024 XuFei</copyright>
+    <atom:link href="//localhost:1313/inbox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/xufei/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>//localhost:1313/xufei/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>//localhost:1313/topics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>//localhost:1313/tags/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>//localhost:1313/series/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>//localhost:1313/posts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/inbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>//localhost:1313/inbox/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/categories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>//localhost:1313/categories/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>About Hugo and theme mainroad</title>
+      <link>//localhost:1313/inbox/about-hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>//localhost:1313/inbox/about-hugo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>//localhost:1313/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>//localhost:1313/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tactics</title>
+      <link>//localhost:1313/tags/tactics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>//localhost:1313/tags/tactics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Think</title>
+      <link>//localhost:1313/tags/think/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>//localhost:1313/tags/think/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>思维制高点：真正的高手，都是贝叶斯主义者！</title>
+      <link>//localhost:1313/posts/beiyesi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>//localhost:1313/posts/beiyesi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>软件工程是个面包机</title>
+      <link>//localhost:1313/posts/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>//localhost:1313/posts/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

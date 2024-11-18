@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documents on Sherlock XuF</title>
+    <link>https://xufei.site/docs/</link>
+    <description>Recent content in Documents on Sherlock XuF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (XuFei)</managingEditor>
+    <webMaster>youremail@example.com (XuFei)</webMaster>
+    <copyright>© 2024 XuFei</copyright>
+    <lastBuildDate>Sat, 04 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei.site/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>https://xufei.site/docs/blowfish-markdown-demo/</link>
+      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>https://xufei.site/docs/blowfish-markdown-demo/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/blowfish-markdown-demo/featured.png" />
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://xufei.site/docs/charts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>https://xufei.site/docs/charts/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Data Engineer Tools</title>
+      <link>https://xufei.site/docs/data-engineer-tools/</link>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>https://xufei.site/docs/data-engineer-tools/</guid>
+      <description>About my development tooks as data engineer</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/data-engineer-tools/featured.png" />
+    </item>
+    
+    <item>
+      <title>How to use figma</title>
+      <link>https://xufei.site/docs/how-to-use-figma/</link>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>https://xufei.site/docs/how-to-use-figma/</guid>
+      <description>About hou to use figma to design workflows</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/how-to-use-figma/featured.png" />
+    </item>
+    
+    <item>
+      <title>How to use Notion</title>
+      <link>https://xufei.site/docs/how-to-use-notion/</link>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>https://xufei.site/docs/how-to-use-notion/</guid>
+      <description>About my use of notion to build my personal knowledge system. Includes notion database, table, function, extension, template.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/how-to-use-notion/featured.png" />
+    </item>
+    
+    <item>
+      <title>How to use Obsidian</title>
+      <link>https://xufei.site/docs/how-to-use-obsidian/</link>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (XuFei)</author>
+      <guid>https://xufei.site/docs/how-to-use-obsidian/</guid>
+      <description>About my use of notion to build my personal knowledge system. Includes notion database, table, function, extension, template.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei.site/docs/how-to-use-obsidian/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
