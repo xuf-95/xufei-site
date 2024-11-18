@@ -38,7 +38,7 @@ jobs:
 
         with:
 
-          ref: gh-pages
+          ref: hugo-pages
 
           path: built-site
 
