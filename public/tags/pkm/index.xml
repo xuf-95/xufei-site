@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PKM on XuF</title><link>https://xuf-95.github.io/xufei-site/tags/pkm/</link><description>Recent content in PKM on XuF</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor><webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster><copyright>© 2024 许飛</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://xuf-95.github.io/xufei-site/tags/pkm/index.xml" rel="self" type="application/rss+xml"/><item><title>时间管理</title><link>https://xuf-95.github.io/xufei-site/docs/005-time-mange/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><author>https://mail.google.com/mail/u/0/#inbox (许飛)</author><guid>https://xuf-95.github.io/xufei-site/docs/005-time-mange/</guid><description>时间管理是一种通过计划和组织来提高效率、优先处理任务的方法，帮助我们在有限的时间内更好地达成目标。有效的时间管理不仅可以提高工作效率，还能减少压力，改善生活质量.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xuf-95.github.io/xufei-site/docs/005-time-mange/featured.jpg"/></item><item><title>How to use figma</title><link>https://xuf-95.github.io/xufei-site/docs/how-to-use-figma/</link><pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate><author>https://mail.google.com/mail/u/0/#inbox (许飛)</author><guid>https://xuf-95.github.io/xufei-site/docs/how-to-use-figma/</guid><description>About hou to use figma to design workflows</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xuf-95.github.io/xufei-site/docs/how-to-use-figma/featured.png"/></item><item><title>知识管理体系：构建你的数据花园</title><link>https://xuf-95.github.io/xufei-site/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/</link><pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate><author>https://mail.google.com/mail/u/0/#inbox (许飛)</author><guid>https://xuf-95.github.io/xufei-site/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/</guid><description>构建一个数据花园不仅是提升个人或企业知识管理能力的有力工具，也是一种提升认知水平、增强决策能力的方式。通过持续捕捉、整理和优化知识，我们能够在信息的海洋中收获真正有价值的洞见，推动自身和组织的持续成长。</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xuf-95.github.io/xufei-site/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/featured.png"/></item><item><title>How to use Notion</title><link>https://xuf-95.github.io/xufei-site/docs/how-to-use-notion/</link><pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate><author>https://mail.google.com/mail/u/0/#inbox (许飛)</author><guid>https://xuf-95.github.io/xufei-site/docs/how-to-use-notion/</guid><description>About my use of notion to build my personal knowledge system. Includes notion database, table, function, extension, template.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xuf-95.github.io/xufei-site/docs/how-to-use-notion/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PKM on XuF</title>
+    <link>https://xufei-site/tags/pkm/</link>
+    <description>Recent content in PKM on XuF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor>
+    <webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster>
+    <copyright>© 2024 许飛</copyright>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei-site/tags/pkm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>时间管理</title>
+      <link>https://xufei-site/docs/005-time-mange/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei-site/docs/005-time-mange/</guid>
+      <description>时间管理是一种通过计划和组织来提高效率、优先处理任务的方法，帮助我们在有限的时间内更好地达成目标。有效的时间管理不仅可以提高工作效率，还能减少压力，改善生活质量.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/005-time-mange/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>How to use figma</title>
+      <link>https://xufei-site/docs/how-to-use-figma/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei-site/docs/how-to-use-figma/</guid>
+      <description>About hou to use figma to design workflows</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/how-to-use-figma/featured.png" />
+    </item>
+    
+    <item>
+      <title>知识管理体系：构建你的数据花园</title>
+      <link>https://xufei-site/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei-site/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/</guid>
+      <description>构建一个数据花园不仅是提升个人或企业知识管理能力的有力工具，也是一种提升认知水平、增强决策能力的方式。通过持续捕捉、整理和优化知识，我们能够在信息的海洋中收获真正有价值的洞见，推动自身和组织的持续成长。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/featured.png" />
+    </item>
+    
+    <item>
+      <title>How to use Notion</title>
+      <link>https://xufei-site/docs/how-to-use-notion/</link>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei-site/docs/how-to-use-notion/</guid>
+      <description>About my use of notion to build my personal knowledge system. Includes notion database, table, function, extension, template.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/how-to-use-notion/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

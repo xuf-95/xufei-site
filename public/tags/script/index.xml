@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Script on XuF</title><link>https://xuf-95.github.io/xufei-site/tags/script/</link><description>Recent content in Script on XuF</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor><webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster><copyright>© 2024 许飛</copyright><lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://xuf-95.github.io/xufei-site/tags/script/index.xml" rel="self" type="application/rss+xml"/><item><title>Building a Universal AI Scraper</title><link>https://xuf-95.github.io/xufei-site/docs/spider/</link><pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate><author>https://mail.google.com/mail/u/0/#inbox (许飛)</author><guid>https://xuf-95.github.io/xufei-site/docs/spider/</guid><description>HTML + Text Search + Text Model</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xuf-95.github.io/xufei-site/docs/spider/featured.png"/></item><item><title>MySQL DDL 批量映射 ODPS DDL 脚本</title><link>https://xuf-95.github.io/xufei-site/docs/mysql-ddl-mapping-odps-ddl/</link><pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate><author>https://mail.google.com/mail/u/0/#inbox (许飛)</author><guid>https://xuf-95.github.io/xufei-site/docs/mysql-ddl-mapping-odps-ddl/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xuf-95.github.io/xufei-site/docs/mysql-ddl-mapping-odps-ddl/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Script on XuF</title>
+    <link>https://xufei-site/tags/script/</link>
+    <description>Recent content in Script on XuF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor>
+    <webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster>
+    <copyright>© 2024 许飛</copyright>
+    <lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei-site/tags/script/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Universal AI Scraper</title>
+      <link>https://xufei-site/docs/spider/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei-site/docs/spider/</guid>
+      <description>HTML + Text Search + Text Model</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/spider/featured.png" />
+    </item>
+    
+    <item>
+      <title>MySQL DDL 批量映射 ODPS DDL 脚本</title>
+      <link>https://xufei-site/docs/mysql-ddl-mapping-odps-ddl/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei-site/docs/mysql-ddl-mapping-odps-ddl/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/mysql-ddl-mapping-odps-ddl/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

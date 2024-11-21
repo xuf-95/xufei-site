@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Database on XuF</title><link>https://xuf-95.github.io/xufei-site/tags/database/</link><description>Recent content in Database on XuF</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor><webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster><copyright>© 2024 许飛</copyright><lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xuf-95.github.io/xufei-site/tags/database/index.xml" rel="self" type="application/rss+xml"/><item><title>数仓搭建开发规范-阿里云</title><link>https://xuf-95.github.io/xufei-site/docs/datawarehouse-standard/</link><pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate><author>https://mail.google.com/mail/u/0/#inbox (许飛)</author><guid>https://xuf-95.github.io/xufei-site/docs/datawarehouse-standard/</guid><description>阿里云数据仓库开发手册</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xuf-95.github.io/xufei-site/docs/datawarehouse-standard/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on XuF</title>
+    <link>https://xufei-site/tags/database/</link>
+    <description>Recent content in Database on XuF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor>
+    <webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster>
+    <copyright>© 2024 许飛</copyright>
+    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei-site/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>数仓搭建开发规范-阿里云</title>
+      <link>https://xufei-site/docs/datawarehouse-standard/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
+      <guid>https://xufei-site/docs/datawarehouse-standard/</guid>
+      <description>阿里云数据仓库开发手册</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/datawarehouse-standard/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
