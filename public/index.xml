@@ -2,182 +2,172 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XuF</title>
-    <link>https://xufei-site/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>https://mail.google.com/mail/u/0/#inbox (许飛)</managingEditor>
     <webMaster>https://mail.google.com/mail/u/0/#inbox (许飛)</webMaster>
     <copyright>© 2024 许飛</copyright>
-    <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xufei-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>W3 </title>
-      <link>https://xufei-site/week/20241103/</link>
+      <link>http://localhost:1313/week/20241103/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/week/20241103/</guid>
+      <guid>http://localhost:1313/week/20241103/</guid>
       <description>About my development tooks as data engineer</description>
       
     </item>
     
     <item>
       <title>W1 op </title>
-      <link>https://xufei-site/week/20241101/</link>
+      <link>http://localhost:1313/week/20241101/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/week/20241101/</guid>
+      <guid>http://localhost:1313/week/20241101/</guid>
       <description>About my development tooks as data engineer</description>
       
     </item>
     
     <item>
       <title>Use Pandas Analysis By exploring COVID-19 Data</title>
-      <link>https://xufei-site/docs/use-pandas-exploring-covid-19-data/</link>
+      <link>http://localhost:1313/docs/use-pandas-exploring-covid-19-data/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/docs/use-pandas-exploring-covid-19-data/</guid>
+      <guid>http://localhost:1313/docs/use-pandas-exploring-covid-19-data/</guid>
       <description>通过对European Centre for Disease Prevention and Control提供的数据集，使用Pandas做简要数据分析</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/use-pandas-exploring-covid-19-data/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/use-pandas-exploring-covid-19-data/featured.png" />
     </item>
     
     <item>
       <title>Learning English By Github</title>
-      <link>https://xufei-site/docs/learning-english-by-github/</link>
+      <link>http://localhost:1313/docs/learning-english-by-github/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/docs/learning-english-by-github/</guid>
+      <guid>http://localhost:1313/docs/learning-english-by-github/</guid>
       <description>Everyday doing things.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/learning-english-by-github/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/learning-english-by-github/featured.png" />
     </item>
     
     <item>
       <title>My Macbook Use</title>
-      <link>https://xufei-site/docs/my-macbook-use/</link>
+      <link>http://localhost:1313/docs/my-macbook-use/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/docs/my-macbook-use/</guid>
+      <guid>http://localhost:1313/docs/my-macbook-use/</guid>
       <description>About Personal Macbook Application, Tools, Product, Settings..</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/my-macbook-use/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/my-macbook-use/featured.png" />
     </item>
     
     <item>
       <title>首席数据官(CDO)的自我修养</title>
-      <link>https://xufei-site/docs/003-cdo/</link>
+      <link>http://localhost:1313/docs/003-cdo/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/docs/003-cdo/</guid>
+      <guid>http://localhost:1313/docs/003-cdo/</guid>
       <description>首席数据官（CDO）是数字时代的必然产物，在企业数据管理、数据战略、数据治理、数字资产、数字经济中的作用越来越重要</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/003-cdo/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/003-cdo/featured.png" />
     </item>
     
     <item>
       <title>QucikBI</title>
-      <link>https://xufei-site/docs/aliyun-quickbi/</link>
+      <link>http://localhost:1313/docs/aliyun-quickbi/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/docs/aliyun-quickbi/</guid>
+      <guid>http://localhost:1313/docs/aliyun-quickbi/</guid>
       <description>Aliyun Visual Charts Tools</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/aliyun-quickbi/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/aliyun-quickbi/featured.png" />
     </item>
     
     <item>
       <title>数仓搭建开发规范-阿里云</title>
-      <link>https://xufei-site/docs/datawarehouse-standard/</link>
+      <link>http://localhost:1313/docs/datawarehouse-standard/</link>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/docs/datawarehouse-standard/</guid>
+      <guid>http://localhost:1313/docs/datawarehouse-standard/</guid>
       <description>阿里云数据仓库开发手册</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/datawarehouse-standard/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/datawarehouse-standard/featured.png" />
     </item>
     
     <item>
       <title>时间管理</title>
-      <link>https://xufei-site/docs/005-time-mange/</link>
+      <link>http://localhost:1313/docs/005-time-mange/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/docs/005-time-mange/</guid>
+      <guid>http://localhost:1313/docs/005-time-mange/</guid>
       <description>时间管理是一种通过计划和组织来提高效率、优先处理任务的方法，帮助我们在有限的时间内更好地达成目标。有效的时间管理不仅可以提高工作效率，还能减少压力，改善生活质量.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/005-time-mange/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>How to use figma</title>
-      <link>https://xufei-site/docs/how-to-use-figma/</link>
-      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
-      <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/docs/how-to-use-figma/</guid>
-      <description>About hou to use figma to design workflows</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/how-to-use-figma/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/005-time-mange/featured.jpg" />
     </item>
     
     <item>
       <title>贝叶斯主义者如何思考</title>
-      <link>https://xufei-site/docs/bei-ye-si/</link>
+      <link>http://localhost:1313/docs/bei-ye-si/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/docs/bei-ye-si/</guid>
+      <guid>http://localhost:1313/docs/bei-ye-si/</guid>
       <description>贝叶斯主义是一种关于概率和统计的哲学观点，它强调信念的主观性和更新。在该观点中，贝叶斯公式是一个核心的工具，用于处理不确定性，更新信念，并指导决策。“可纠错的反馈闭环”结合“贝叶斯公式”辅助你形成自己的行动思考框架</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/bei-ye-si/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/bei-ye-si/featured.png" />
     </item>
     
     <item>
       <title>我从来没有目标</title>
-      <link>https://xufei-site/docs/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</link>
+      <link>http://localhost:1313/docs/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</link>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/docs/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</guid>
+      <guid>http://localhost:1313/docs/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/</guid>
       <description>有一句成语&amp;quot;功不唐捐&amp;quot;，就是这个意思，付出的努力不会白费。西方人说：&amp;ldquo;Passion never fails&amp;rdquo;（激情不会失败），也是同样的意思</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/%E6%88%91%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%9C%89%E7%9B%AE%E6%A0%87/featured.png" />
     </item>
     
     <item>
       <title>Building a Universal AI Scraper</title>
-      <link>https://xufei-site/docs/spider/</link>
+      <link>http://localhost:1313/docs/spider/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/docs/spider/</guid>
+      <guid>http://localhost:1313/docs/spider/</guid>
       <description>HTML + Text Search + Text Model</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/spider/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/spider/featured.png" />
     </item>
     
     <item>
       <title>MySQL DDL 批量映射 ODPS DDL 脚本</title>
-      <link>https://xufei-site/docs/mysql-ddl-mapping-odps-ddl/</link>
+      <link>http://localhost:1313/docs/mysql-ddl-mapping-odps-ddl/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/docs/mysql-ddl-mapping-odps-ddl/</guid>
+      <guid>http://localhost:1313/docs/mysql-ddl-mapping-odps-ddl/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/mysql-ddl-mapping-odps-ddl/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/mysql-ddl-mapping-odps-ddl/featured.png" />
     </item>
     
     <item>
       <title>知识管理体系：构建你的数据花园</title>
-      <link>https://xufei-site/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/</link>
+      <link>http://localhost:1313/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/</guid>
+      <guid>http://localhost:1313/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/</guid>
       <description>构建一个数据花园不仅是提升个人或企业知识管理能力的有力工具，也是一种提升认知水平、增强决策能力的方式。通过持续捕捉、整理和优化知识，我们能够在信息的海洋中收获真正有价值的洞见，推动自身和组织的持续成长。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%BD%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E8%8A%B1%E5%9B%AD/featured.png" />
     </item>
     
     <item>
       <title>How to use Notion</title>
-      <link>https://xufei-site/docs/how-to-use-notion/</link>
+      <link>http://localhost:1313/docs/how-to-use-notion/</link>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/docs/how-to-use-notion/</guid>
+      <guid>http://localhost:1313/docs/how-to-use-notion/</guid>
       <description>About my use of notion to build my personal knowledge system. Includes notion database, table, function, extension, template.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/how-to-use-notion/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/how-to-use-notion/featured.png" />
     </item>
     
     <item>
       <title>Big Data With AI</title>
-      <link>https://xufei-site/docs/database-ai/</link>
+      <link>http://localhost:1313/docs/database-ai/</link>
       <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
       <author>https://mail.google.com/mail/u/0/#inbox (许飛)</author>
-      <guid>https://xufei-site/docs/database-ai/</guid>
+      <guid>http://localhost:1313/docs/database-ai/</guid>
       <description>AI赋能数据工程正在彻底改变数据处理和分析的方式。通过自动化数据清洗、数据集成、数据治理等关键流程。AI算法能够自动识别数据模式、修复异常值、补全缺失数据，从而减少人工干预。在大模型能力不断增强的情况下，大数据生态中的产品也会AI进行优化重构。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xufei-site/docs/database-ai/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/database-ai/featured.png" />
     </item>
     
   </channel>
